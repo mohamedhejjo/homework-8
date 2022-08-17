@@ -1,1 +1,80 @@
+#profile{border: 3px solid #7579E7;
+margin-left: 44%; margin-top: 105px;
+width: 14%;height:14%;border-radius:50% ;}
+.profile{margin-left: 45%;margin-top: 2%;}
+#name{text-align: center;
+color: #707070;font-size: 22px;
+font-weight: bold;font-family: Arial, Helvetica, sans-serif;
+margin-left: -75%;}
+#dec{color: #B7B7B7;text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+font-size: 15px;margin-left: -36%;margin-top: -5px;width: 100%;}
+#email{text-decoration: none;
+color: #9AB3F5;font-size: 14px;
+font-family: Arial, Helvetica, sans-serif;
+width: 100%;
+/* margin-left: -10%; */
+}
+#tel{color:#9AB3F5;font-family: Arial, Helvetica, sans-serif;
+font-size: 13px;
+width: 100%;
+margin-top: 2%;
+margin-left: 30px;}
+.button{margin-left: 40%;margin-top: 2%;}
+#btnboo{background-color: #7579E7;
+border-color: #7579E7;border-radius: 8px;
+font-size: 14px;color: #FFFFFF;
+padding:1% 2%;margin-right: 1%;width: 20%;
+font-weight: bold;font-family: Arial, Helvetica, sans-serif;
 
+}
+#btnme{color: #7579E7;background-color:#E5E5E5 ;
+    border-radius: 8px;width:20%;
+    font-size: 14px;padding:1% 2%;
+    font-weight: bold;font-family: Arial, Helvetica, sans-serif;
+}
+    .image{ 
+    margin-left: 22%;margin-right: 15%;
+}
+    .imag2{width: 30%;height: 30%;border-radius: 8px;
+    flex-wrap: wrap;
+
+    }
+    .imag1{margin-left: 3%;
+    margin-right: 3%;margin-top:3% ;}
+    .my{ margin-left: 22%;margin-right: 15%;
+       width: 60%;
+       display: flex;
+       justify-content: space-between;
+margin-top: 5%;
+    }
+    .my2{ display: flex;
+        justify-content: space-between;
+    width: 25%;}
+   
+    #chose{border-color: #9AB3F5;color: #7579E7;
+    border-radius: 10px;width:40%;font-size: 17px;
+height: 50%;padding-left: 1%;margin-top: 5%;
+font-weight: bold;font-family: Arial, Helvetica, sans-serif;
+}
+#my1{color: #7579E7;font-size: 17px;
+width:35%;height: 2%;margin-left: 20%;
+font-weight: bold;font-family: Arial, Helvetica, sans-serif;
+}
+#my3{color: #7579E7;font-size: 21px;
+    width: 20%;height: 2%;margin-right: 1%;float: left;
+    font-weight: bold;font-family: Arial, Helvetica, sans-serif;
+}
+#btnlaod{color: #7579E7;background-color:#E5E5E5 ;
+    border-radius: 8px;width:15%;
+    font-size: 14px;padding:1% 2%;
+    font-weight: bold;font-family: Arial, Helvetica, sans-serif;
+margin-left: 45%; margin-top: 2.5%;  }
+/*-----------------------------*/
+
+.imag2:active{
+    border-radius: 55%;
+    border:1px outset #A3D8F4;
+    
+    
+}
